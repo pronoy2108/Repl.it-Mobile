@@ -6,6 +6,9 @@ If you want to try it out, I will sometimes be hosting a "tunnel." If you want t
 
 If you're on Android and want to test out a more stable build, you can download that [here](https://mobile.repl.co/download.html).
 
+Forked from this link:
+https://github.com/kognise/repl.it-mobile
+
 ## Motivation
 
 Repl.it is amazing but the site isn't very mobile friendly. This app's development will enable programmers to edit code on the go, and empower students who only have access to tablets or phones to learn how to program.
